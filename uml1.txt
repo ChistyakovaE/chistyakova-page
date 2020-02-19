@@ -11,15 +11,15 @@ skinparam usecase {
 }
 left to right direction
 actor P0 as "Человек"
-actor M0 as "Модуль"
+actor M0 as "Программа"
 actor P as "Пользователь"
-actor M as "Программный модуль"
+actor M as "Мобильное приложение"
 
-package APP as "Приложение поиска пути"{
-usecase A as "Загрузка файла пространства"
-usecase B as "Установка точек старта/финиша"
-usecase C as "Просмотр результата"
-usecase D as "Выгрузка результата"
+package APP as "Приложение для ведения кабинета пациента"{
+usecase A as "Аутентификация пациента"
+usecase B as "Выбор диетолога"
+usecase C as "Выбор времени"
+usecase D as "Выдача электронного талона"
 P -- (A)
 (A) -- M
 P -- (B)
