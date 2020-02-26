@@ -40,5 +40,11 @@
         "title": "Лабораторная работа №7",
         "description": "Разработка unit-теста процедуры в выбранном проекте",
         "preview": "img/class-diagram.png"
+    },
+     {
+        "id": 8,
+        "title": "Ссылка",
+        "description": "на семинары",
+        "preview": "img/class-diagram.png"
     }
 ]
