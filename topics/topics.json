@@ -43,8 +43,8 @@
     },
      {
         "id": 8,
-        "title": "Ссылка",
-        "description": "на семинары",
+        "title": "Семинары",
+        "description": "Лаверычев, Чистякова, Есипова",
         "preview": "img/class-diagram.png"
     }
 ]
