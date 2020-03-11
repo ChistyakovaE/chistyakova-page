@@ -43,7 +43,25 @@
     },
      {
         "id": 8,
-        "title": "Семинары",
+        "title": "Семинар 1",
+        "description": "Лаверычев, Чистякова, Есипова",
+        "preview": "img/class-diagram.png"
+    }
+    {
+        "id": 9,
+        "title": "Семинар 2",
+        "description": "Лаверычев, Чистякова, Есипова",
+        "preview": "img/class-diagram.png"
+    }
+    {
+        "id": 10,
+        "title": "Семинар 3",
+        "description": "Лаверычев, Чистякова, Есипова",
+        "preview": "img/class-diagram.png"
+    }
+    {
+        "id": 11,
+        "title": "Семинар 4",
         "description": "Лаверычев, Чистякова, Есипова",
         "preview": "img/class-diagram.png"
     }
